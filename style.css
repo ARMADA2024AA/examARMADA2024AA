@@ -1,0 +1,34 @@
+#ccc{
+  width:30%;
+  height: 600px;
+  border-width: 70%;
+  border-color: black;
+  float: left;
+  margin:1%;
+  background-color: gray;
+  
+}
+#vvv{
+  width:30%;
+  height: 710px;
+  border-width: thin;
+  border-color: black;
+  float: left;
+  margin:1%;
+  background-color: gray;
+}
+#bbb{
+  width:30%;
+  height: 600px;
+  border-width: thin;
+  border-color: black;
+  float: left;
+  margin:1%;
+  background-color: gray;
+}
+li{
+  color: white;
+}
+body{
+ background-color: black;
+}
